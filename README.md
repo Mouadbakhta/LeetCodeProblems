@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
