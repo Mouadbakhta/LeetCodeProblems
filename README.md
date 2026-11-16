@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0035-search-insert-position) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
