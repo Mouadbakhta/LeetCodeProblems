@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0342-power-of-four) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
