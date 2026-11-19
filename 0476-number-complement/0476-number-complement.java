@@ -1,12 +1,8 @@
 class Solution {
     public int findComplement(int num) {
         String s = Integer.toBinaryString(num);
-        StringBuilder result = new StringBuilder();
-        for (char a : s.toCharArray()){
-            if (a == '1') {
-                a='0';}else{a='1';}
-            result.append(a);
-        }
-        return Integer.parseInt(result.toString(),2);
+        int numofbit = s.length();
+        int mask = (1 << numofbit) - 1;
+        return num ^ mask;
     }
 }
