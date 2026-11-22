@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0476-number-complement) |
 | [0868-binary-gap](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0868-binary-gap) |
 | [1486-xor-operation-in-an-array](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/1486-xor-operation-in-an-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0136-single-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
