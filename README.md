@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0048-rotate-image) |
 ## String
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
