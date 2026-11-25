@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
