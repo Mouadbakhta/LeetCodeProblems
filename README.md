@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/1486-xor-operation-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
@@ -91,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0016-3sum-closest) |
+| [0202-happy-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
