@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
