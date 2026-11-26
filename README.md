@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0169-majority-element) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
@@ -110,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
