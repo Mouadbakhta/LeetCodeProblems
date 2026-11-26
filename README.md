@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -107,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
