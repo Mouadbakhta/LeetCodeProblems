@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [0705-design-hashset](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0705-design-hashset) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0389-find-the-difference) |
+| [0705-design-hashset](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0705-design-hashset) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0705-design-hashset](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0705-design-hashset) |
 ## Counting
 |  |
 | ------- |
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Mouadbakhta/LeetCodeProblems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
